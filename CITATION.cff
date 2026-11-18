@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Se utilizar este material, cite-o conforme os dados abaixo."
+title: "Guia de saúde mental para brasileiros no exterior"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-18
+authors:
+  - family-names: Duarte
+    given-names: Bruna
+    affiliation: Psicóloga — CRP 04/62419
+abstract: >-
+  Guia educativo em português brasileiro sobre ansiedade, transtorno bipolar,
+  transtorno de personalidade borderline, relacionamentos, psicoterapia e a
+  experiência emocional de brasileiros no exterior.
+keywords:
+  - saúde mental
+  - psicologia
+  - ansiedade
+  - bipolaridade
+  - borderline
+  - brasileiros no exterior
+license: CC-BY-4.0
+repository-code: "https://github.com/consultaspsyhello-hub/guia-saude-mental-brasileiros-exterior"
+url: "https://www.psicologabrunaduarte.com.br/"
+

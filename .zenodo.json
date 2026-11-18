@@ -1,0 +1,30 @@
+{
+  "title": "Guia de saúde mental para brasileiros no exterior",
+  "description": "Guia educativo em português brasileiro sobre ansiedade, transtorno bipolar, transtorno de personalidade borderline, relacionamentos, psicoterapia e a experiência emocional de brasileiros no exterior. Não contém dados de pacientes e não substitui avaliação individual.",
+  "creators": [
+    {
+      "name": "Duarte, Bruna",
+      "affiliation": "Psicóloga — CRP 04/62419"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "saúde mental",
+    "psicologia",
+    "ansiedade",
+    "bipolaridade",
+    "borderline",
+    "brasileiros no exterior",
+    "português brasileiro"
+  ],
+  "upload_type": "dataset",
+  "language": "por",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.psicologabrunaduarte.com.br/",
+      "relation": "isSupplementedBy",
+      "scheme": "url"
+    }
+  ]
+}

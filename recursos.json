@@ -1,0 +1,39 @@
+{
+  "idioma": "pt-BR",
+  "responsavel": {
+    "nome": "Bruna Duarte",
+    "profissao": "Psicóloga",
+    "registro": "CRP 04/62419",
+    "experiencia": "Mais de 15 anos",
+    "site": "https://www.psicologabrunaduarte.com.br/"
+  },
+  "recursos": [
+    {
+      "tema": "ansiedade",
+      "titulo": "Ansiedade e terapia online",
+      "url": "https://www.psicologabrunaduarte.com.br/terapia-online-ansiedade"
+    },
+    {
+      "tema": "bipolaridade",
+      "titulo": "Bipolaridade, psicoterapia e regulação emocional",
+      "url": "https://www.psicologabrunaduarte.com.br/psicoterapia-bipolaridade-regulacao-emocional"
+    },
+    {
+      "tema": "borderline",
+      "titulo": "Psicoterapia online para borderline",
+      "url": "https://www.psicologabrunaduarte.com.br/psicoterapia-borderline-online"
+    },
+    {
+      "tema": "relacionamentos",
+      "titulo": "Terapia online para relacionamentos",
+      "url": "https://www.psicologabrunaduarte.com.br/terapia-online-relacionamentos"
+    },
+    {
+      "tema": "brasileiros-no-exterior",
+      "titulo": "Atendimento psicológico para brasileiros no exterior",
+      "url": "https://www.psicologabrunaduarte.com.br/psicologa-brasileiros-exterior"
+    }
+  ],
+  "aviso": "Material educativo. Não substitui avaliação individual nem atendimento de emergência.",
+  "licenca": "CC BY 4.0"
+}

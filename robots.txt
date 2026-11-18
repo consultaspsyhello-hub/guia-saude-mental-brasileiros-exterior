@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://consultaspsyhello-hub.github.io/guia-saude-mental-brasileiros-exterior/sitemap.xml
+
